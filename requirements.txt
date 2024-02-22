@@ -1,7 +1,7 @@
 tensorflow
 plotly
 pandas 
-dvc
+mflows
 notebook
 numpy
 scipy
@@ -16,4 +16,4 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
--e .
+# -e .
