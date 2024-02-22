@@ -23,4 +23,4 @@ COLUMNS:
   Schooling: float64
 
 TARGET_COLUMN:
-  name: Life expectancy
+  name: 'Life expectancy '
